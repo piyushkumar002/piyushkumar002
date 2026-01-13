@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Piyush Kumar
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently in college
-- 💞️ I’m looking to collaborate on python and machine learning projects
-- 📫 How to reach me: [click here](https://www.linkedin.com/in/piyush-kumar-styles/)
+[![Social banner for jh3y](https://github.com/piyushkumar002/piyushkumar002/main/assets/header-banner.png)](https://in.linkedin.com/in/piyush-kumar-styles)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Piyush.
+</p>
+<p align='center'>For enquiries, reach out over on <a href="https://in.linkedin.com/in/piyush-kumar-styles">Linkedin</a>.</p>
 
-<!---
-piyushkumar002/piyushkumar002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align='center'><i>Stay awesome!</i></h1>
